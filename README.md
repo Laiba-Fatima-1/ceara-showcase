@@ -58,7 +58,7 @@ It was designed, built, and exhibited as a 4th-semester Artificial Intelligence 
 <p align="center"><sub>Mode 2 — CEARA conducting a spoken practice interview</sub></p>
 </td>
 <td width="50%">
-<img src="assets/screenshots/exhibition-photo.jpg" alt="Exhibition day" width="100%"/>
+<img src="assets/screenshots/exhibition-photo.jpeg" alt="Exhibition day" width="100%"/>
 <p align="center"><sub>Live at the Fall 2024 AI exhibition</sub></p>
 </td>
 </tr>
