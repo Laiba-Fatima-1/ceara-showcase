@@ -1,0 +1,14 @@
+<svg width="680" height="160" viewBox="0 0 680 160" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>CEARA wordmark</title>
+<desc>The CEARA logotype with a small eye/signal motif and tagline</desc>
+<rect width="680" height="160" fill="#FFFFFF"/>
+<g>
+  <circle cx="118" cy="78" r="46" fill="none" stroke="#534AB7" stroke-width="2"/>
+  <circle cx="118" cy="78" r="14" fill="#534AB7"/>
+  <circle cx="122" cy="73" r="4" fill="#FFFFFF"/>
+  <path d="M72 78 A46 46 0 0 1 88 44" fill="none" stroke="#1D9E75" stroke-width="3" stroke-linecap="round"/>
+  <path d="M148 112 A46 46 0 0 1 164 78" fill="none" stroke="#1D9E75" stroke-width="3" stroke-linecap="round"/>
+</g>
+<text x="200" y="92" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" fill="#26215C" letter-spacing="1">CEARA</text>
+<text x="202" y="124" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#5F5E5A" letter-spacing="0.5">Cognitive Evaluation &amp; Assessment Review Assistant</text>
+</svg>
